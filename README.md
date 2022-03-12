@@ -1,2 +1,2 @@
 # YOUTUBE
-working on a sample outube website
+working on a sample youtube website
